@@ -1,0 +1,7 @@
+《领域驱动设计》中文翻译 - http://gdut_yy.gitee.io/doc-ddd/
+《实现领域驱动设计》中文翻译 - http://gdut_yy.gitee.io/doc-iddd/
+《软件设计的哲学》中文翻译 - http://gdut_yy.gitee.io/doc-aposd/
+《架构整洁之道》中文翻译 - http://gdut_yy.gitee.io/doc-cleanarch/
+《代码整洁之道》中文翻译 - http://gdut_yy.gitee.io/doc-cleancode/
+ 集 - https://gdut_yy.gitee.io/doc-gitblogs/module_book/tech/
+https://github.com/xx-zh/xx-zh-roadmap
